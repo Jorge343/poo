@@ -1,0 +1,7 @@
+C:\Users\aaa\Desktop\ejercicios\Ej_7\bin\Debug\Ej_7.exe.config
+C:\Users\aaa\Desktop\ejercicios\Ej_7\bin\Debug\Ej_7.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_7\bin\Debug\Ej_7.pdb
+C:\Users\aaa\Desktop\ejercicios\Ej_7\obj\Debug\Ej_7.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_7\obj\Debug\Ej_7.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_7\obj\Debug\Ej_7.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_7\obj\Debug\Ej_7.pdb

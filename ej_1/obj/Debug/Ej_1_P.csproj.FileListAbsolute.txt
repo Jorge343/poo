@@ -1,0 +1,14 @@
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\bin\Debug\Ej_1_P.exe.config
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\bin\Debug\Ej_1_P.exe
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\bin\Debug\Ej_1_P.pdb
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\obj\Debug\Ej_1_P.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\obj\Debug\Ej_1_P.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\obj\Debug\Ej_1_P.exe
+C:\Users\aaa\Desktop\Ejercicios de Pablo\Ej_1_P\obj\Debug\Ej_1_P.pdb
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\bin\Debug\Ej_1_P.exe.config
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\bin\Debug\Ej_1_P.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\bin\Debug\Ej_1_P.pdb
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\obj\Debug\Ej_1_P.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\obj\Debug\Ej_1_P.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\obj\Debug\Ej_1_P.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_1_P\obj\Debug\Ej_1_P.pdb

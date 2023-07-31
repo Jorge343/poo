@@ -1,0 +1,15 @@
+C:\Users\aaa\Desktop\ejercicios\Ej_2\bin\Debug\Ej_2.exe.config
+C:\Users\aaa\Desktop\ejercicios\Ej_2\bin\Debug\Ej_2.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_2\bin\Debug\Ej_2.pdb
+C:\Users\aaa\Desktop\ejercicios\Ej_2\obj\Debug\Ej_2.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_2\obj\Debug\Ej_2.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_2\obj\Debug\Ej_2.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_2\obj\Debug\Ej_2.pdb
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\bin\Debug\Ej_2.exe.config
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\bin\Debug\Ej_2.exe
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\bin\Debug\Ej_2.pdb
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\obj\Debug\Ej_2.csproj.AssemblyReference.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\obj\Debug\Ej_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\obj\Debug\Ej_2.csproj.CoreCompileInputs.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\obj\Debug\Ej_2.exe
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\estudio\Jorge_Gaitan\Ej_2\obj\Debug\Ej_2.pdb

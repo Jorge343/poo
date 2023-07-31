@@ -1,0 +1,7 @@
+C:\Users\aaa\Desktop\ejercicios\Ej_3\obj\Debug\Ej_3.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_3\obj\Debug\Ej_3.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\ejercicios\Ej_3\bin\Debug\Ej_3.exe.config
+C:\Users\aaa\Desktop\ejercicios\Ej_3\bin\Debug\Ej_3.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_3\bin\Debug\Ej_3.pdb
+C:\Users\aaa\Desktop\ejercicios\Ej_3\obj\Debug\Ej_3.exe
+C:\Users\aaa\Desktop\ejercicios\Ej_3\obj\Debug\Ej_3.pdb

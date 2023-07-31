@@ -1,0 +1,15 @@
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\bin\Debug\net6.0\ej_16.exe
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\bin\Debug\net6.0\ej_16.deps.json
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\bin\Debug\net6.0\ej_16.runtimeconfig.json
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\bin\Debug\net6.0\ej_16.dll
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\bin\Debug\net6.0\ej_16.pdb
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.csproj.AssemblyReference.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.AssemblyInfoInputs.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.AssemblyInfo.cs
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.csproj.CoreCompileInputs.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.dll
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\refint\ej_16.dll
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.pdb
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ej_16.genruntimeconfig.cache
+C:\Users\Jorge.DESKTOP-H2UT2AQ\Desktop\poo\ej_16\ej_16\obj\Debug\net6.0\ref\ej_16.dll
